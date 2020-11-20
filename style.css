@@ -76,10 +76,10 @@ body{
     grid-area: status;
 }
 
-#quote-img{
-    border-radius: 50%;
+.profile-img{
     grid-area: photo;
     width: 2.5rem;
+    border-radius: 50%;
 }
 
 .quote{
