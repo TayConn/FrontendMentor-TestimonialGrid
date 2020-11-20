@@ -86,8 +86,8 @@ body{
     position: absolute;
     overflow: visible;
     z-index: -1;
-    top: 0vh;
-    right: 8vh;
+    top: -3vh;
+    right: 10.5vh;
     opacity: 0.9;
     display: inline;
 } 
