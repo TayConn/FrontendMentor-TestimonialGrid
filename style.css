@@ -76,7 +76,7 @@ body{
     grid-area: status;
 }
 
-#img{
+#quote-img{
     border-radius: 50%;
     grid-area: photo;
     width: 2.5rem;
